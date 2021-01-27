@@ -6,7 +6,7 @@
           <img
             class="w-full"
             src="../../assets/images/logo_white.png"
-            alt="logo"
+            alt="logoSite"
           />
         </div>
 
